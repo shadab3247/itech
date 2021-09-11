@@ -1,0 +1,151 @@
+body{
+    margin: 0%;
+    background-color: white;
+    color: brown
+
+}
+.navbar{
+    overflow: hidden;
+    background-color: rgba(114, 29, 29, 0.74);
+}
+.navbar a{
+    float: right;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.img1{
+     margin-left: 70px;
+}
+hr{
+    width: 100%;
+    border-top: 2px solid rgba(114, 29, 29, 0.74);
+}
+.vl{
+    border-left: 2px solid rgba(114, 29, 29, 0.74) ;
+    height: 80px;
+    margin: 20px;
+}
+
+h1{
+   color:  rgba(114, 29, 29, 0.74);
+}
+#main{
+    text-decoration: underline;
+}
+.section1{
+    width: 30%;
+    float: left;
+}
+.section2{
+    text-align: center;
+    width: 70%;
+    float: right;
+}
+.sec2{
+    display: flex;
+}
+.sec2-1{
+    width: 25%;
+    float: left;
+}
+.sec2-2{
+    width: 25%;
+    float: left;
+}
+.sec2-3{
+    width: 25%;
+    float: left;
+}
+.sec2-4{
+    width: 25%;
+    float: left;
+}
+
+/***section3***********/
+.sec3-A{
+    display: flex;
+    width: 30%;
+    float: left;
+}
+.sec3-B{
+    display: flex;
+    width: 70%;
+    float: right;
+}
+.web-img{
+    width: 150px;
+    margin-left: 180px;
+}
+.sec3-h2{
+    text-align: center;
+}
+/**********dotted line***********/
+.hl{
+    border-bottom: 10px dotted rgba(114, 29, 29, 0.74) ;
+    width: 10%;
+    margin: 200px auto 50px ;
+}
+/********section4**********/
+.sec4-A{
+    display: flex;
+    width: 30%;
+    float: left;
+}
+.sec4-B{
+    display: flex;
+    width: 70%;
+    float: right;
+}
+.web-img{
+    width: 150px;
+    margin-left: 180px;
+}
+.sec4-h2{
+    text-align: center;
+}
+/***********section5**************/
+.sec5-A{
+    display: flex;
+    width: 30%;
+    float: left;
+}
+.sec5-B{
+    display: flex;
+    width: 70%;
+    float: right;
+}
+.web-img{
+    width: 150px;
+    margin-left: 180px;
+}
+.sec5-h2{
+    text-align: center;
+}
+/***********footer************/
+.footer{
+    height: 50px;
+    background-color: rgba(114, 29, 29, 0.74);
+    margin-top: 300px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+} 
+/*******************************list*******************************/
+#main5{
+    padding-left: 40%;
+    color: brown;
+}
+ol{
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 0%;
+}
+li{
+    margin: 2%;
+    
+}
